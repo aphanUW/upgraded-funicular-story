@@ -10,6 +10,7 @@ unlock its true power, the power to Yeet things with the force of a thousand
 Yeets." Ted replied "What?". "I said the power to Yeet things with the force
 of a thousand Yeets. You can use this new power to defeat Lord Pumpkin Spice."
 I will leave now, have fun on your adventure. 
+<<<<<<< HEAD
 >>>>>>> 7ff86648d6091bae9958797907ddd7ee72ad9d3d
 
 
@@ -18,3 +19,9 @@ an overpowering and innate connection to this mysterious creature. The surroundi
 went quiet as water nymphs, imps, and dwarfs alike cowered in fear. Every creature knew 
 in oggland that Ted adn Ted could not be stopped. They would impose their will on everyone
 else and document it in a movie called Ted 2.
+=======
+
+the lad killed Pumpkin spice esily with one single punch. and laugh at lord
+spice: too weak hahaha. the world is peace again and not dominated by pumbkin 
+lord and little pumbkins. People don't need to eat pumpkins all day.
+>>>>>>> 4c30db7c56449ff494ea3bdc552042a69618fa1e
